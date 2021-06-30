@@ -1,6 +1,9 @@
 ---
 permalink: /research-sweepstakes
 title: "Research Sweepstakes"
+author_profile: false
+header:
+  overlay_image: /assets/images/splash_confroom.jpg
 ---
 
 # Official Rules
