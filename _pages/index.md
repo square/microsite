@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "Microsite"
-header:
-  overlay_color: "#333"
+title: ""
 ---
 
 If you're a Square customer, you should visit the [Help Center](https://squareup.com/help/) instead.
