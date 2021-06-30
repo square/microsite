@@ -1,5 +1,5 @@
 ---
-permalink: /research-sweepstakes
+permalink: /research-sweepstakes/
 title: "Research Sweepstakes"
 author_profile: false
 header:
