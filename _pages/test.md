@@ -1,7 +1,6 @@
 ---
 permalink: /test/
 title: "Test"
-author_profile: true
 header:
   overlay_image: /assets/images/splash_confroom.jpg
 ---
