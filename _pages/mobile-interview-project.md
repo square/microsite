@@ -74,7 +74,7 @@ In the case that no employees are returned, the application should present an em
       ]
     }
 ~~~
-{: .language-json}
+
 
 ## Primary Employee List View
 Display a list / table view (or other collection view) which shows all employees returned from the JSON endpoint above. Each row / item in the list should contain a summary of the employee, such as their photo, name, and team. There is no defined way to sort employees – you can sort and group by name, team, etc.
