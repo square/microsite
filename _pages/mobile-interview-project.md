@@ -54,7 +54,7 @@ In the case that no employees are returned, the application should present an em
 |photo\_url\_small|string|no|The URL of the employee’s small photo. Useful for list view.|
 |photo\_url\_large|string|no|The URL of the employee’s full-size photo.|
 |team|string|yes|The team they are on, represented as a human readable string.|
-|employee\_type|<p>enum</p><p></p><p></p><p>FULL\_TIME</p><p>PART\_TIME</p><p>CONTRACTOR</p>|yes|How the employee is classified.|
+|employee\_type|enum <br/> FULL\_TIME <br/> PART\_TIME <br/> CONTRACTOR|yes|How the employee is classified.|
 
 ~~~
     {
