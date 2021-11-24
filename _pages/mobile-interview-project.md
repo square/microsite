@@ -56,9 +56,26 @@ In the case that no employees are returned, the application should present an em
 |team|string|yes|The team they are on, represented as a human readable string.|
 |employee\_type|<p>enum</p><p></p><p></p><p>FULL\_TIME</p><p>PART\_TIME</p><p>CONTRACTOR</p>|yes|How the employee is classified.|
 
+~~~
+    {
+      "employees" : [
+        {
+          "uuid" : "some-uuid",
+          "full_name" : "Eric Rogers",
+          "phone_number" : "5556669870",
+          "email_address" : "erogers.demo@squareup.com",
+          "biography" : "A short biography describing the employee.",
+          "photo_url_small" : "https://some.url/path1.jpg",
+          "photo_url_large" : "https://some.url/path2.jpg",
+          "team" : "Seller",
+          "employee_type" : "FULL_TIME",
+        },
+        ...
+      ]
+    }
+~~~
+{: .language-json}
 
-|<p>{</p><p>`  `“employees” : [</p><p>`    `{</p><p>`      `“uuid” : “some-uuid”,</p><p>`      `“full\_name” : “Eric Rogers”,</p><p>`      `“phone\_number” : “5556669870”,</p><p>`      `“email\_address” : “erogers.demo@squareup.com”,</p><p>`      `“biography” : “A short biography describing the employee.”,</p><p></p><p>`      `“photo\_url\_small” : “https://some.url/path1.jpg”,</p><p>`      `“photo\_url\_large” : “https://some.url/path2.jpg”,</p><p></p><p>`      `“team” : “Seller”,</p><p>`      `“employee\_type” : “FULL\_TIME”,</p><p>`    `},</p><p></p><p>`    `...</p><p></p><p>`  `]</p><p>}</p>|
-| :- |
 ## Primary Employee List View
 Display a list / table view (or other collection view) which shows all employees returned from the JSON endpoint above. Each row / item in the list should contain a summary of the employee, such as their photo, name, and team. There is no defined way to sort employees – you can sort and group by name, team, etc.
 
