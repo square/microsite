@@ -1,6 +1,6 @@
 ---
 permalink: /mobile-interview-project/
-title: "Take Home Project"
+title: "Mobile Take-Home Project"
 author_profile: false
 header:
   overlay_image: /assets/images/splash_confroom.jpg
