@@ -8,7 +8,7 @@ header:
 
 # Hello!
 
-*This document outlines the info and guidelines you’ll need to complete Square’s mobile take home question: an employee directory app. You’ll have a week to complete the question – the actual engineering work should take about 2-4 hours, and you can split this across the week however you see fit (all at once, over a few days, etc). If you have any questions during the process, you can post comments on this doc and we’ll get back to you ASAP. Good luck!*
+*This site outlines the info and guidelines you’ll need to complete Square’s Mobile Take-Home Project: An Employee Directory App. You’ll have a week to complete the question – the actual engineering work should take about 3-4 hours, and you can split this across the week however you see fit (all at once, over a few days, etc). If you have any questions during the process please share them with your recruiting contact and we’ll get back to you ASAP. Good luck!*
 
 # Overview
 Build an employee directory app that shows a list of employees parsed from the provided JSON endpoint.
@@ -89,7 +89,7 @@ Feel free to either:
 
 
 # 🏢 Onsite Interview Additions
-When you come in for your onsite interview, you will work with two engineers over the course of two pair programming sessions (1 hour each) to add more functionality to your application. In the first pair programming session, we’ll focus on extending the data model. In the second pair programming, we’ll focus on extending the UI.
+When you come in for your virtual onsite interview, you will work with two engineers over the course of two pair programming sessions (1 hour each) to add more functionality to your application. In the first pair programming session, we’ll focus on extending the data model. In the second pair programming, we’ll focus on extending the UI.
 
 During the interview, the interviewer will also ask you about general architecture choices you made while writing the app. Please be prepared to answer these questions as they come up!
 
