@@ -48,8 +48,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Square"
-  avatar : "/assets/images/square_laptop.png"
+  name   : "Block"
+  avatar : ""
   bio    : ""
 
 footer:
