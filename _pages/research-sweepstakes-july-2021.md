@@ -3,7 +3,7 @@ permalink: /research-sweepstakes-july-2021/
 title: "Research Sweepstakes"
 author_profile: false
 header:
-  overlay_image: /assets/images/square_register_banner.jpg
+  overlay_image: /assets/images/block-header.png
 ---
 
 # Official Rules
