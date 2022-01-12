@@ -3,7 +3,7 @@ permalink: /research-sweepstakes/
 title: "Research Sweepstakes"
 author_profile: false
 header:
-  overlay_image: /assets/images/splash_confroom.jpg
+  overlay_image: /assets/images/block-header.png
 ---
 
 # Official Rules
