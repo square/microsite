@@ -3,7 +3,7 @@ permalink: /mobile-interview-project/
 title: "Mobile Take-Home Project"
 author_profile: false
 header:
-  overlay_image: /assets/images/splash_confroom.jpg
+  overlay_image: /assets/images/block-header.png
 ---
 
 # Hello!
