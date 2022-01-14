@@ -2,7 +2,8 @@ source "https://rubygems.org"
 
 ruby '2.7.4'
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", ">= 223", group: :jekyll_plugins
+gem "activesupport", ">= 4.1.11"
 
 gem "tzinfo-data"
 
@@ -15,4 +16,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "jekyll-github-metadata", ">= 2.13.0"
 end
