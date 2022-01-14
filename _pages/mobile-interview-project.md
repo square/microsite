@@ -32,11 +32,11 @@ One extra thing we ask is that you please ensure you do not use more network ban
 
 The employee list should not be persisted to disk. You can reload it from the network on each app launch and when refresh is requested — but no more often than that unintentionally. (Android developers in particular should take care not to make redundant network calls when the phone is rotated, or when memory is low).
 
-On the contrary, images should be cached on disk so as to not waste device bandwidth (please use an open source image caching solution, or write your own caching – do not rely on HTTP caching for image caching).
+Images, however, should be cached on disk so as to not waste device bandwidth. You may use an open source image caching solution, or write your own caching. Do not rely upon HTTP caching for image caching.
 
 Note that photos at a given URL will never change. Once one is loaded, you do not need to reload the photo. If an employee’s photo changes, they will be given a new photo URL.
 
-Tests should be provided for the app. We definitely do not expect 100% code coverage, so please use your best judgment for what should be tested. We’re also interested only in unit tests. Feel free to skip snapshot or app tests.
+Tests should be provided for the app. We do not expect 100% code coverage, so please use your best judgment for what should be tested. We’re also interested only in unit tests. Feel free to skip snapshot or app tests.
 
 # Details
 
@@ -94,7 +94,9 @@ There is no pagination API - the endpoint returns the full list of employees. Th
 
 ## Use What You Know
 
-We’re looking to see you at your best – as such, please use the language and frameworks you’re most comfortable with on your chosen mobile platform. This means that if you’re most proficient with Objective-C or Java, use that – don’t feel pressured to use Swift or Kotlin! Block ships all four in production, so we’re not going to prefer answers in one language over another.
+We’re looking to see you at your best – as such, please use the language and frameworks you’re most comfortable with on your chosen mobile platform. This means that if you’re most proficient with Objective-C or Java, use that – don’t feel pressured to use Swift or Kotlin!
+
+Similarly, don’t feel pressured to use SwiftUI, Compose, and/or other libraries and techniques that you are unfamiliar with. We’re not going to prefer answers in one language over another, but we will expect you to be comfortable and proficient with your choices.
 
 ## Show Us Your Strengths
 
@@ -193,19 +195,18 @@ Please do not use code from previous/current employers, for IP/legal reasons :-)
 
  * Q) **What programming languages can I use?**
 
-Please utilize Java or Kotlin for Android, or Objective-C or Swift for iOS. For iOS, if you need to drop down to CoreFoundation, Accelerate, etc, C is fine too (but you shouldn’t need to).
+Please utilize Java or Kotlin for Android, or Objective-C or Swift for iOS.
+Do not feel pressured or required to use Swift or Kotlin if you’ve primarily worked in Objective-C or Java in the past – use whatever you’re most comfortable with! For context, Square still has plenty of Objective-C and Java, and will for some time.
 
-Do not feel pressured or required to use Swift or Kotlin if you’ve primarily worked in Objective-C or Java in the past – use whatever you’re most comfortable with! For context, Block still has plenty of Objective-C and Java, and will for some time.
+For this project, please do not utilize cross-platform SDKs such as React Native, Flutter, Phonegap, Cordova, etc.
 
-Please do not utilize cross-platform SDKs such as React Native, Flutter, Phonegap, Cordova, etc. We do not utilize these at Block.
+ * Q) **Can I use 3rd party frameworks and libraries?**
 
- * Q) **Can I use 3rd party frameworks?**
+Sure – feel free to use frameworks and libraries you’d consider essential in your application development process. These might include your preferred frameworks and libraries for handling dependency injection, network requests, JSON deserialization, etc.
 
-Sure – feel free to use any “no brainer” frameworks you’d usually pull into an app such as RxJava, RxSwift, etc. However, since this is a relatively simple application, you shouldn’t need many external dependencies (in general, Block avoids depending on too many external dependencies).
+If you copy 3rd party framework or library source files into your project, make sure that you attribute them in the relevant section of the README.
 
-If you copy in dependencies (versus reference them with a dependency manager), please do note as such in your README.
-
-...And of course, using 1st-party frameworks that come with iOS or Android are fine!
+And of course, using 1st-party frameworks that come with iOS or Android are fine!
 
  * Q) **What build systems & build tooling should I use?**
 
@@ -230,10 +231,6 @@ Feel free to utilize xibs and storyboards – however note that we generally do 
  * Q) **Can I use SwiftUI (iOS) or Compose (Android)?**
 
 Feel free to do so. We are adopting Compose now on Android! However, note that we do not (yet) write code in Swift UI at Block.
-
- * Q) **Can I use Data Binding (Android?)**
-
-Thanks for keeping up to date with the latest Android technologies! In that spirit, since Data Binding has been softly discouraged by Android in favor of View Binding, and since we don’t use Data Binding at Block and wouldn’t be as effective in reviewing its usage, please avoid using Data Binding in your submissions.
 
  * Q) **Is there a minimum SDK version or deployment target we should use?**
 
