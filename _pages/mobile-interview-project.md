@@ -112,7 +112,7 @@ We want to see what working with you is like! If there are things you might do d
 
 ## Include a README!
 
-We've provided a README template that we'd like you to include in your source code and fill out. We hope that this will help us more accurately evaluate your project. Make a file called README.md in the root of your repo and fill this template out!
+We've provided a README template that we'd like you to include in your source code and fill out. We hope that this will help us more accurately evaluate your project. Make a file called README.md in the root of your project folder and fill this template out!
 
 ```markdown
 ## Build tools & versions used
@@ -136,12 +136,9 @@ We've provided a README template that we'd like you to include in your source co
 
 # Submitting The Final Project
 
-Feel free to either:
+Please zip up the project and email it to your recruiter. This can be either flat files, or a git repo containing your development history.
 
-**1)** Zip up the project and email it to your recruiter. This can be either flat files, or a git repo containing development history.
-
-**2)** Share the Github repo with ***@sq-mobile-interview*** if you worked on Github in a private repo, and send the link to the repo to your recruiter.
-
+Please be sure to remove unnecessary build or generated files, as these can greatly increase the size of the zip file. During evaluation we will build your app from source. If you use git, you can run `git clean -fdx` to delete the uncommitted files.
 
 # 🏢 Onsite Interview Additions
 
