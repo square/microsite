@@ -197,7 +197,7 @@ Please do not use code from previous/current employers, for IP/legal reasons :-)
 
 Please utilize Java or Kotlin for Android, or Objective-C or Swift for iOS.
 Swift or Kotlin are preferred, but it's acceptable to use Objective-C or Java if you’ve primarily worked with these languages in the past.
-For context, Block still has plenty of Objective-C and Java, and will for some time, although new code is primarily written in Swift or Kotlin.
+For context, Block still has plenty of Objective-C and Java, and will for some time, although new code is primarily written in Swift and Kotlin.
 
 For this project, please do not utilize cross-platform SDKs such as Kotlin Multiplatform, React Native, Flutter, Phonegap, Cordova, etc.
 
