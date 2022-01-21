@@ -94,9 +94,7 @@ There is no pagination API - the endpoint returns the full list of employees. Th
 
 ## Use What You Know
 
-We’re looking to see you at your best – as such, please use the language and frameworks you’re most comfortable with on your chosen mobile platform. 
-This means that if you’re most proficient with Objective-C or Java, use that – while Swift or Kotlin are preferred, being comfortable and proficient with your choices is more imporant in our evaluation. 
-Similarly, please don't feel pressured to use SwiftUI or Compose.
+We’re looking to see you at your best – as such, please use the language and frameworks you’re most comfortable with on your chosen mobile platform. This means that if you’re most proficient with Objective-C or Java, use that – while Swift or Kotlin are preferred, being comfortable and proficient with your choices is more important in our evaluation. Similarly, don’t feel pressured to use SwiftUI, Compose, and/or other libraries and techniques with which you are unfamiliar.
 
 ## Show Us Your Strengths
 
@@ -195,9 +193,7 @@ Please do not use code from previous/current employers, for IP/legal reasons :-)
 
  * Q) **What programming languages can I use?**
 
-Please utilize Java or Kotlin for Android, or Objective-C or Swift for iOS.
-Swift or Kotlin are preferred, but it's acceptable to use Objective-C or Java if you’ve primarily worked with these languages in the past.
-For context, Block still has plenty of Objective-C and Java, and will for some time, although new code is primarily written in Swift and Kotlin.
+Please utilize Java or Kotlin for Android, or Objective-C or Swift for iOS. Swift or Kotlin are preferred, but it's acceptable to use Objective-C or Java if you’ve primarily worked with these languages in the past. For context, Block still has plenty of Objective-C and Java, and will for some time, although new code is primarily written in Swift and Kotlin.
 
 For this project, please do not utilize cross-platform SDKs such as Kotlin Multiplatform, React Native, Flutter, Phonegap, Cordova, etc.
 
