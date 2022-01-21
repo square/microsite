@@ -94,9 +94,9 @@ There is no pagination API - the endpoint returns the full list of employees. Th
 
 ## Use What You Know
 
-We’re looking to see you at your best – as such, please use the language and frameworks you’re most comfortable with on your chosen mobile platform. This means that if you’re most proficient with Objective-C or Java, use that – don’t feel pressured to use Swift or Kotlin!
-
-Similarly, don’t feel pressured to use SwiftUI, Compose, and/or other libraries and techniques that you are unfamiliar with. We’re not going to prefer answers in one language over another, but we will expect you to be comfortable and proficient with your choices.
+We’re looking to see you at your best – as such, please use the language and frameworks you’re most comfortable with on your chosen mobile platform. 
+This means that if you’re most proficient with Objective-C or Java, use that – while Swift or Kotlin are preferred, being comfortable and proficient with your choices is more imporant in our evaluation. 
+Similarly, please don't feel pressured to use SwiftUI or Compose.
 
 ## Show Us Your Strengths
 
@@ -196,9 +196,10 @@ Please do not use code from previous/current employers, for IP/legal reasons :-)
  * Q) **What programming languages can I use?**
 
 Please utilize Java or Kotlin for Android, or Objective-C or Swift for iOS.
-Do not feel pressured or required to use Swift or Kotlin if you’ve primarily worked in Objective-C or Java in the past – use whatever you’re most comfortable with! For context, Square still has plenty of Objective-C and Java, and will for some time.
+Swift or Kotlin are preferred, but it's acceptable to use Objective-C or Java if you’ve primarily worked with these languages in the past.
+For context, Block still has plenty of Objective-C and Java, and will for some time, although new code is primarily written in Swift or Kotlin.
 
-For this project, please do not utilize cross-platform SDKs such as React Native, Flutter, Phonegap, Cordova, etc.
+For this project, please do not utilize cross-platform SDKs such as Kotlin Multiplatform, React Native, Flutter, Phonegap, Cordova, etc.
 
  * Q) **Can I use 3rd party frameworks and libraries?**
 
