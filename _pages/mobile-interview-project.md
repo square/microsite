@@ -28,7 +28,7 @@ If there is any additional UI/UX you would like to add, feel free to do so! We o
 
 Be sure to appropriately handle the normal variety of errors when querying an endpoint. The app should display useful loading, empty, and error states where appropriate. If images fail to load, displaying a placeholder is fine.
 
-One extra thing we ask is that you please ensure you do not use more network bandwidth than necessary – load expensive resources such as photos on-demand only.
+One extra thing we ask is that you please ensure you do not use more network bandwidth than necessary. For example, load expensive resources such as photos on-demand only, and ensure that network requests are cancelled when they're interrupted.
 
 The employee list should not be persisted to disk. You can reload it from the network on each app launch and when refresh is requested — but no more often than that unintentionally. (Android developers in particular should take care not to make redundant network calls when the phone is rotated, or when memory is low).
 
@@ -170,7 +170,7 @@ Treat the code as if you’re merging it to your main branch in a real app.
 
 So, please try to take as few shortcuts and use as few hacks as possible. If you do need to take some shortcuts for the sake of time, please note so in a code comment and the README.
 
-We’re looking for code as close to the real world as possible, so please utilize best practices for architecture and testability, and tell us in the README if you had to compromise.
+We’re looking for code as close to the real world as possible, so please utilize best practices for the language, and tell us in the README if you had to make compromises.
 
  * Q) **Do I need to worry about future extensibility?**
 
