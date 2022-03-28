@@ -3,7 +3,7 @@ permalink: /tidal-vendor/
 title: "TIDAL Invoicing Guidelines"
 author_profile: false
 header:
-  overlay_image: /assets/images/tidal-logo.jpeg
+  overlay_image: /assets/images/block-header.png
 ---
 
 # Thanks so much for your contribution to TIDAL!
@@ -19,9 +19,9 @@ header:
 
 1. PO Number
 2. The correct TIDAL entity from the PO. It will be one of the following:
-  1. TIDAL Music AS
-  2. Aspiro AB
-  3. Project Panther US LLC
+  * TIDAL Music AS
+  * Aspiro AB
+  * Project Panther US LLC
 3. Date of submission (the date on your invoice should match the day you send it in)
 4. Date of services
 5. Your Name
@@ -43,6 +43,6 @@ If the name you’re billing under is different from the name you are known by, 
 
 Please do not submit your invoice more than once (unless instructed to). If duplicate invoices are entered into the system, it will delay payment processing.
 
-Please note that “Incoming” is not a person, it is an automated account & will not reply to messages! Any questions please send to [link](ap@tidal.com)
+Please note that “Incoming” is not a person, it is an automated account & will not reply to messages! Any questions please send to [ap@tidal.com](ap@tidal.com)
 
 Thanks for your cooperation!
