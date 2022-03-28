@@ -10,9 +10,9 @@ header:
 
 ## Where and How to Submit Your Invoice:
 
-1. Submit your completed invoice, in PDF format, directly to incoming@tidal.com
+1. Submit your completed invoice, in PDF format, directly to [incoming@tidal.com](incoming@tidal.com)
 2. If it is not in a PDF format, it will be rejected by the system.
-3. Be sure to CC TIDAL employee that assigned you the work/project (when applicable)
+3. Be sure to CC TIDAL employee that assigned you the work/project (when applicable).
 
 
 ## What To Include on Your Invoice:
