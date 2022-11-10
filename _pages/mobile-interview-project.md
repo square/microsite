@@ -182,6 +182,10 @@ Definitely! Please utilize as many Google searches and Stack Overflow searches a
 
 That being said, please do not bulk copy and paste large sections of code from 3rd party sources, as this would defeat the purpose of the evaluation. If you do copy in code, please note as such in your README.
 
+Q) **Can I use GitHub Copilot or other AI code generation tools?**
+
+No. We don't use GitHub Copilot or other AI code generation tools at Block, and we want this project to reflect the same tools and techniques that you would use on the job.
+
  * Q) **Can I utilize code I’ve written for my personal / side projects?**
 
 Do feel free to copy in (or pull in as a dependency) utility functions, classes, types (etc) you usually bring into your personal projects, as long as you wrote them. Please note which code is copied in your README.
