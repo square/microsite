@@ -236,7 +236,7 @@ There is none, so feel free to use what you’re comfortable with, or what you t
 
 For Android, ideally the minimum will be between 16 and 26.
 
-For iOS, Block apps support iOS 12 and later. Any version after that is fine.
+For iOS, Block apps support iOS 14 and later. Any version after that is fine.
 
  * **Q) Something else not covered here?**
 
