@@ -182,7 +182,7 @@ Definitely! Please utilize as many Google searches and Stack Overflow searches a
 
 That being said, please do not bulk copy and paste large sections of code from 3rd party sources, as this would defeat the purpose of the evaluation. If you do copy in code, please note as such in your README.
 
-Q) **Can I use GitHub Copilot or other AI code generation tools?**
+ * Q) **Can I use GitHub Copilot or other AI code generation tools?**
 
 No. We don't use GitHub Copilot or other AI code generation tools at Block, and we want this project to reflect the same tools and techniques that you would use on the job.
 
@@ -236,7 +236,7 @@ There is none, so feel free to use what you’re comfortable with, or what you t
 
 For Android, ideally the minimum will be between 16 and 26.
 
-For iOS, Block apps support iOS 12 and later. Any version after that is fine.
+For iOS, Block apps support iOS 14 and later. Any version after that is fine.
 
  * **Q) Something else not covered here?**
 
