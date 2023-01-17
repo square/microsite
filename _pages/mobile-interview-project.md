@@ -138,6 +138,8 @@ Please zip up the project and email it to your recruiter. This can be either fla
 
 Please be sure to remove unnecessary build or generated files, as these can greatly increase the size of the zip file. During evaluation we will build your app from source. If you use git, you can run `git clean -fdx` to delete the uncommitted files.
 
+**NOTE:** Android projects typically contain several files that are blocked from email attachments. To submit an Android project, please use Google Drive, Dropbox, OneDrive, or similar file upload service to host your project, then share a link to it with your recruiter.
+
 # 🏢 Onsite Interview Additions
 
 When you come in for your virtual onsite interview, you will work with two engineers over the course of two pair programming sessions (1 hour each) to add more functionality to your application. **Because of this, please don’t build more features than we outline here!**
