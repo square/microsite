@@ -138,6 +138,8 @@ Please zip up the project and email it to your recruiter. This can be either fla
 
 Please be sure to remove unnecessary build or generated files, as these can greatly increase the size of the zip file. During evaluation we will build your app from source. If you use git, you can run `git clean -fdx` to delete the uncommitted files.
 
+To ensure fairness for all candidates, please do not share your take home project with others. If you're using git, do not host this project in a public repository.
+
 **NOTE:** Android projects typically contain several files that are blocked from email attachments. To submit an Android project, please use Google Drive, Dropbox, OneDrive, or similar file upload service to host your project, then share a link to it with your recruiter.
 
 # 🏢 Onsite Interview Additions
