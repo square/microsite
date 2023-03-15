@@ -10,9 +10,11 @@ header:
 
 ## Where and How to Submit Your Invoice:
 
-1. Submit your completed invoice, in PDF format, directly to one of the emails listed below:
+1. Submit your completed invoice, in PDF format, directly to one of the emails listed below.
+2. If it is not in a PDF format, it will be rejected by the system.
+3. Be sure to CC TIDAL employee that assigned you the work/project (when applicable).
 
-**TIDAL Entity**--**AP Email Address**
+  * **TIDAL Entity**--**AP Email Address**
   * **Project Panther Ltd.:** ap-tidal-cayman@squareup.com
   * **WiMP Music GmbH:** ap-tidal-germany@squareup.com
   * **Tidal K.K.:** ap-tidal-japan@squareup.com
@@ -26,9 +28,6 @@ header:
   * **Project Panther US LLC (US):** ap-tidal-us@squareup.com
   * **Project Rising, LLC:** ap-tidal-us@squareup.com
   * **Tidal Music LLC:** ap-tidal-us@squareup.com
-3. If it is not in a PDF format, it will be rejected by the system.
-4. Be sure to CC TIDAL employee that assigned you the work/project (when applicable).
-
 
 ## What To Include on Your Invoice:
 
