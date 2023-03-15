@@ -11,20 +11,21 @@ header:
 ## Where and How to Submit Your Invoice:
 
 1. Submit your completed invoice, in PDF format, directly to one of the emails listed below:
-**TIDAL Entity:**--**AP Email Address:**
-  * Project Panther Ltd.: ap-tidal-cayman@squareup.com
-  * WiMP Music GmbH: ap-tidal-germany@squareup.com
-  * Tidal K.K.: ap-tidal-japan@squareup.com
-  * Tidal Music AS: ap-tidal-norway@squareup.com
-  * Tidal sp. z o.o.:ap-tidal-poland@squareup.com
-  * Tidal Music - Spain, SL: ap-tidal-spain@squareup.com
-  * Aspiro AB: ap-tidal-sweden@squareup.com
-  * Tidal US AB: ap-tidal-sweden@squareup.com
-  * Project Panther Bidco Ltd: ap-tidal-uk@squareup.com
-  * Malibu Entertainment Inc.(US): ap-tidal-us@squareup.com
-  * Project Panther US LLC (US): ap-tidal-us@squareup.com
-  * Project Rising, LLC: ap-tidal-us@squareup.com
-  * Tidal Music LLC: ap-tidal-us@squareup.com
+
+**TIDAL Entity**--**AP Email Address**
+  * **Project Panther Ltd.:** ap-tidal-cayman@squareup.com
+  * **WiMP Music GmbH:** ap-tidal-germany@squareup.com
+  * **Tidal K.K.:** ap-tidal-japan@squareup.com
+  * **Tidal Music AS:** ap-tidal-norway@squareup.com
+  * **Tidal sp. z o.o.:** ap-tidal-poland@squareup.com
+  * **Tidal Music - Spain, SL:** ap-tidal-spain@squareup.com
+  * **Aspiro AB:** ap-tidal-sweden@squareup.com
+  * **Tidal US AB:** ap-tidal-sweden@squareup.com
+  * **Project Panther Bidco Ltd:** ap-tidal-uk@squareup.com
+  * **Malibu Entertainment Inc.(US):** ap-tidal-us@squareup.com
+  * **Project Panther US LLC (US):** ap-tidal-us@squareup.com
+  * **Project Rising, LLC:** ap-tidal-us@squareup.com
+  * **Tidal Music LLC:** ap-tidal-us@squareup.com
 3. If it is not in a PDF format, it will be rejected by the system.
 4. Be sure to CC TIDAL employee that assigned you the work/project (when applicable).
 
