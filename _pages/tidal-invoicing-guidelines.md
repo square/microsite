@@ -8,6 +8,15 @@ header:
 
 # Thanks so much for your contribution to TIDAL!
 
+## TIDAL Invoicing Via Tradeshift:
+
+TIDAL invoicing has transitioned to Tradeshift for touchless processing of our invoices. Tradeshift, our free, e-invoicing platform, speeds up the delivery of your invoices to us to help you get paid on time. It also provides enhanced security while giving you greater visibility into invoice statuses. 
+
+Tradeshift will be the only way you can submit invoices. Once you follow the basic steps in your Tradeshift Invite, the system will guide you through the set up process. 
+
+### Can’t find the official Tradeshift Invite sent from Supplierinvitation@tradeshift.com? 
+Please check your junk or spam folder if it’s not in your primary inbox, or Contact Block, Inc. [here](http://go.workwithsquare.com/NDI0LUlBQi0yMTgAAAGPIO5EmIZtMssxKQ68gcxgBVI99ne402xxb0xVEhrro91dT8HVNT0W8Jhxv4bJIIuJfb14MMQ=) if you have any questions or need to request an invite to Tradeshift.
+
 ## Where and How to Submit Your Invoice:
 
 1. Submit your completed invoice, in PDF format, directly to one of the emails listed below.
