@@ -232,7 +232,7 @@ Feel free to utilize xibs and storyboards – however note that we generally do 
 
  * Q) **Can I use SwiftUI (iOS) or Compose (Android)?**
 
-Feel free to do so. We are adopting Compose now on Android! However, note that we do not (yet) write code in Swift UI at Block.
+Feel free to do so. We are adopting Compose now on Android as well as SwiftUI in some parts of Block.
 
  * Q) **Is there a minimum SDK version or deployment target we should use?**
 
@@ -240,7 +240,7 @@ There is none, so feel free to use what you’re comfortable with, or what you t
 
 For Android, ideally the minimum will be between 16 and 26.
 
-For iOS, Block apps support iOS 14 and later. Any version after that is fine.
+For iOS, Block apps support iOS 15 and later. Any version after that is fine.
 
  * **Q) Something else not covered here?**
 
