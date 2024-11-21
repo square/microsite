@@ -20,7 +20,7 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.9)
-    date (3.2.2)
+    date (3.3.3)
     dnsruby (1.61.8)
       net-ftp
       simpleidn (~> 0.1)
@@ -290,7 +290,7 @@ GEM
       unf (~> 0.1.4)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    time (0.2.0)
+    time (0.2.2)
       date
     timeout (0.2.0)
     typhoeus (1.4.0)
