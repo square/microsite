@@ -188,7 +188,7 @@ That being said, please do not bulk copy and paste large sections of code from 3
 
  * Q) **Can I use GitHub Copilot, ChatGPT, or other AI code generation tools?**
 
-No. We don't use GitHub Copilot, ChatGPT, or other AI tools for code generation at Block, and we want this project to reflect the same tools and techniques that you would use on the job.
+We'd like the project to be a reflection of your skills and approach to app development and architecture. You're welcome to use these tools for minor assistance or inspiration, but please refrain from generating significant portions of your project with them.
 
  * Q) **Can I utilize code I’ve written for my personal / side projects?**
 
