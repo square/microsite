@@ -38,22 +38,9 @@ If you encounter permission issues:
 
 This is a Jekyll-based site. To run locally:
 
-### Prerequisites
-- Ruby 2.7.4 (specified in Gemfile)
-- Access to Square's internal gem servers (for bundle install)
-- VPN connection may be required
-
-### Setup Steps
-1. Ensure you have Ruby 2.7.4 installed (use rvm: `rvm install 2.7.4`)
-2. Switch to the correct Ruby version: `rvm use 2.7.4`
-3. Install dependencies: `bundle install`
-4. Start the development server: `bundle exec jekyll serve`
-5. Visit `http://localhost:4000` in your browser
-
-### Troubleshooting
-- If you encounter SSL certificate errors, you may need to configure gem sources
-- The project uses Square's internal gem servers, so you'll need appropriate access
-- If bundle install fails, check your VPN connection and gem source configuration
+1. Install dependencies: `bundle install`
+2. Start the development server: `bundle exec jekyll serve`
+3. Visit `http://localhost:4000` in your browser
 
 ## Contributing
 
