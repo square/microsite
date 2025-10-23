@@ -34,14 +34,6 @@ If you encounter permission issues:
 - Check that your SSH key is authorized for the Square organization's SAML SSO
 - Verify you have the correct access rights to the repository
 
-## Development
-
-This is a Jekyll-based site. To run locally:
-
-1. Install dependencies: `bundle install`
-2. Start the development server: `bundle exec jekyll serve`
-3. Visit `http://localhost:4000` in your browser
-
 ## Contributing
 
 1. Create a new branch for your changes
