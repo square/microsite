@@ -188,7 +188,7 @@ That being said, please do not bulk copy and paste large sections of code from 3
 
  * Q) **Can I use GitHub Copilot, ChatGPT, or other AI code generation tools?**
 
-We'd like the project to be a reflection of your skills and approach to app development and architecture. You're welcome to use these tools for minor assistance or inspiration, but please refrain from generating significant portions of your project with them.
+We'd like the project to be a reflection of your skills and approach to app development and architecture. You're welcome to use these tools for assistance or inspiration, but please make sure that you would stand by and explain all the code that you submit. Please ensure that all of the code you submit has been thoroughly reviewed by you for accuracy, reliability and maintainability.
 
  * Q) **Can I utilize code I’ve written for my personal / side projects?**
 
